@@ -10,11 +10,27 @@
 		6CF629571B40499100128611 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6CF629561B40499100128611 /* main.m */; };
 		6CF6295A1B40499100128611 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6CF629591B40499100128611 /* AppDelegate.m */; };
 		6CF6295D1B40499100128611 /* CM_Tarea_1_Tables.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6CF6295B1B40499100128611 /* CM_Tarea_1_Tables.xcdatamodeld */; };
-		6CF629601B40499100128611 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6CF6295F1B40499100128611 /* ViewController.m */; };
+		6CF629601B40499100128611 /* Home.m in Sources */ = {isa = PBXBuildFile; fileRef = 6CF6295F1B40499100128611 /* Home.m */; };
 		6CF629631B40499100128611 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6CF629611B40499100128611 /* Main.storyboard */; };
 		6CF629651B40499100128611 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6CF629641B40499100128611 /* Images.xcassets */; };
 		6CF629681B40499100128611 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6CF629661B40499100128611 /* LaunchScreen.xib */; };
 		6CF629741B40499200128611 /* CM_Tarea_1_TablesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6CF629731B40499200128611 /* CM_Tarea_1_TablesTests.m */; };
+		6CF6298C1B405E9100128611 /* Arya.png in Resources */ = {isa = PBXBuildFile; fileRef = 6CF629821B405E9100128611 /* Arya.png */; };
+		6CF6298D1B405E9100128611 /* Sansa.png in Resources */ = {isa = PBXBuildFile; fileRef = 6CF629831B405E9100128611 /* Sansa.png */; };
+		6CF6298E1B405E9100128611 /* Tyrion.png in Resources */ = {isa = PBXBuildFile; fileRef = 6CF629841B405E9100128611 /* Tyrion.png */; };
+		6CF6298F1B405E9100128611 /* Jon_Snow.png in Resources */ = {isa = PBXBuildFile; fileRef = 6CF629851B405E9100128611 /* Jon_Snow.png */; };
+		6CF629901B405E9100128611 /* Cersei.png in Resources */ = {isa = PBXBuildFile; fileRef = 6CF629861B405E9100128611 /* Cersei.png */; };
+		6CF629911B405E9100128611 /* Daenerys.png in Resources */ = {isa = PBXBuildFile; fileRef = 6CF629871B405E9100128611 /* Daenerys.png */; };
+		6CF629921B405E9100128611 /* Melisandre.png in Resources */ = {isa = PBXBuildFile; fileRef = 6CF629881B405E9100128611 /* Melisandre.png */; };
+		6CF629931B405E9100128611 /* Tommen.png in Resources */ = {isa = PBXBuildFile; fileRef = 6CF629891B405E9100128611 /* Tommen.png */; };
+		6CF629941B405E9100128611 /* Little_Finger.png in Resources */ = {isa = PBXBuildFile; fileRef = 6CF6298A1B405E9100128611 /* Little_Finger.png */; };
+		6CF629951B405E9100128611 /* Bran.png in Resources */ = {isa = PBXBuildFile; fileRef = 6CF6298B1B405E9100128611 /* Bran.png */; };
+		6CF6299B1B40844E00128611 /* CharacterDetails.m in Sources */ = {isa = PBXBuildFile; fileRef = 6CF6299A1B40844E00128611 /* CharacterDetails.m */; };
+		6CF6299E1B40846200128611 /* CharacterAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = 6CF6299D1B40846200128611 /* CharacterAdd.m */; };
+		6CF629A21B40848400128611 /* CharacterCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6CF629A01B40848400128611 /* CharacterCell.m */; };
+		6CF629A31B40848400128611 /* CharacterCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6CF629A11B40848400128611 /* CharacterCell.xib */; };
+		6CF629A51B4090E200128611 /* ImageIO.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6CF629A41B4090E200128611 /* ImageIO.framework */; };
+		6CF629AC1B40A7FA00128611 /* DataClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 6CF629AB1B40A7FA00128611 /* DataClass.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,14 +50,34 @@
 		6CF629581B40499100128611 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		6CF629591B40499100128611 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		6CF6295C1B40499100128611 /* CM_Tarea_1_Tables.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CM_Tarea_1_Tables.xcdatamodel; sourceTree = "<group>"; };
-		6CF6295E1B40499100128611 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		6CF6295F1B40499100128611 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		6CF6295E1B40499100128611 /* Home.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Home.h; sourceTree = "<group>"; };
+		6CF6295F1B40499100128611 /* Home.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Home.m; sourceTree = "<group>"; };
 		6CF629621B40499100128611 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		6CF629641B40499100128611 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		6CF629671B40499100128611 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		6CF6296D1B40499200128611 /* CM Tarea 1 TablesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "CM Tarea 1 TablesTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6CF629721B40499200128611 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6CF629731B40499200128611 /* CM_Tarea_1_TablesTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CM_Tarea_1_TablesTests.m; sourceTree = "<group>"; };
+		6CF629821B405E9100128611 /* Arya.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Arya.png; path = "Game of Thrones characters images/Arya.png"; sourceTree = "<group>"; };
+		6CF629831B405E9100128611 /* Sansa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Sansa.png; path = "Game of Thrones characters images/Sansa.png"; sourceTree = "<group>"; };
+		6CF629841B405E9100128611 /* Tyrion.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Tyrion.png; path = "Game of Thrones characters images/Tyrion.png"; sourceTree = "<group>"; };
+		6CF629851B405E9100128611 /* Jon_Snow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Jon_Snow.png; path = "Game of Thrones characters images/Jon_Snow.png"; sourceTree = "<group>"; };
+		6CF629861B405E9100128611 /* Cersei.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Cersei.png; path = "Game of Thrones characters images/Cersei.png"; sourceTree = "<group>"; };
+		6CF629871B405E9100128611 /* Daenerys.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Daenerys.png; path = "Game of Thrones characters images/Daenerys.png"; sourceTree = "<group>"; };
+		6CF629881B405E9100128611 /* Melisandre.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Melisandre.png; path = "Game of Thrones characters images/Melisandre.png"; sourceTree = "<group>"; };
+		6CF629891B405E9100128611 /* Tommen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Tommen.png; path = "Game of Thrones characters images/Tommen.png"; sourceTree = "<group>"; };
+		6CF6298A1B405E9100128611 /* Little_Finger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Little_Finger.png; path = "Game of Thrones characters images/Little_Finger.png"; sourceTree = "<group>"; };
+		6CF6298B1B405E9100128611 /* Bran.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Bran.png; path = "Game of Thrones characters images/Bran.png"; sourceTree = "<group>"; };
+		6CF629991B40844E00128611 /* CharacterDetails.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CharacterDetails.h; sourceTree = "<group>"; };
+		6CF6299A1B40844E00128611 /* CharacterDetails.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CharacterDetails.m; sourceTree = "<group>"; };
+		6CF6299C1B40846200128611 /* CharacterAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CharacterAdd.h; sourceTree = "<group>"; };
+		6CF6299D1B40846200128611 /* CharacterAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CharacterAdd.m; sourceTree = "<group>"; };
+		6CF6299F1B40848400128611 /* CharacterCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CharacterCell.h; sourceTree = "<group>"; };
+		6CF629A01B40848400128611 /* CharacterCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CharacterCell.m; sourceTree = "<group>"; };
+		6CF629A11B40848400128611 /* CharacterCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CharacterCell.xib; sourceTree = "<group>"; };
+		6CF629A41B4090E200128611 /* ImageIO.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ImageIO.framework; path = System/Library/Frameworks/ImageIO.framework; sourceTree = SDKROOT; };
+		6CF629AA1B40A7FA00128611 /* DataClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataClass.h; sourceTree = "<group>"; };
+		6CF629AB1B40A7FA00128611 /* DataClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DataClass.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,6 +85,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6CF629A51B4090E200128611 /* ImageIO.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,6 +102,8 @@
 		6CF629481B40499100128611 = {
 			isa = PBXGroup;
 			children = (
+				6CF629A61B4090E600128611 /* Frameworks */,
+				6CF629801B404A2600128611 /* Resources */,
 				6CF629531B40499100128611 /* CM Tarea 1 Tables */,
 				6CF629701B40499200128611 /* CM Tarea 1 TablesTests */,
 				6CF629521B40499100128611 /* Products */,
@@ -83,10 +122,9 @@
 		6CF629531B40499100128611 /* CM Tarea 1 Tables */ = {
 			isa = PBXGroup;
 			children = (
-				6CF629581B40499100128611 /* AppDelegate.h */,
-				6CF629591B40499100128611 /* AppDelegate.m */,
-				6CF6295E1B40499100128611 /* ViewController.h */,
-				6CF6295F1B40499100128611 /* ViewController.m */,
+				6CF6297F1B404A1300128611 /* Cells */,
+				6CF6297D1B4049C600128611 /* Controllers */,
+				6CF6297E1B4049EE00128611 /* Delegates */,
 				6CF629611B40499100128611 /* Main.storyboard */,
 				6CF629641B40499100128611 /* Images.xcassets */,
 				6CF629661B40499100128611 /* LaunchScreen.xib */,
@@ -120,6 +158,73 @@
 				6CF629721B40499200128611 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		6CF6297D1B4049C600128611 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				6CF6295E1B40499100128611 /* Home.h */,
+				6CF6295F1B40499100128611 /* Home.m */,
+				6CF629991B40844E00128611 /* CharacterDetails.h */,
+				6CF6299A1B40844E00128611 /* CharacterDetails.m */,
+				6CF6299C1B40846200128611 /* CharacterAdd.h */,
+				6CF6299D1B40846200128611 /* CharacterAdd.m */,
+			);
+			name = Controllers;
+			sourceTree = "<group>";
+		};
+		6CF6297E1B4049EE00128611 /* Delegates */ = {
+			isa = PBXGroup;
+			children = (
+				6CF629581B40499100128611 /* AppDelegate.h */,
+				6CF629591B40499100128611 /* AppDelegate.m */,
+				6CF629AA1B40A7FA00128611 /* DataClass.h */,
+				6CF629AB1B40A7FA00128611 /* DataClass.m */,
+			);
+			name = Delegates;
+			sourceTree = "<group>";
+		};
+		6CF6297F1B404A1300128611 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				6CF6299F1B40848400128611 /* CharacterCell.h */,
+				6CF629A01B40848400128611 /* CharacterCell.m */,
+				6CF629A11B40848400128611 /* CharacterCell.xib */,
+			);
+			name = Cells;
+			sourceTree = "<group>";
+		};
+		6CF629801B404A2600128611 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				6CF629811B404A2E00128611 /* Images */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		6CF629811B404A2E00128611 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				6CF629821B405E9100128611 /* Arya.png */,
+				6CF629831B405E9100128611 /* Sansa.png */,
+				6CF629841B405E9100128611 /* Tyrion.png */,
+				6CF629851B405E9100128611 /* Jon_Snow.png */,
+				6CF629861B405E9100128611 /* Cersei.png */,
+				6CF629871B405E9100128611 /* Daenerys.png */,
+				6CF629881B405E9100128611 /* Melisandre.png */,
+				6CF629891B405E9100128611 /* Tommen.png */,
+				6CF6298A1B405E9100128611 /* Little_Finger.png */,
+				6CF6298B1B405E9100128611 /* Bran.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		6CF629A61B4090E600128611 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				6CF629A41B4090E200128611 /* ImageIO.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -202,9 +307,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6CF629941B405E9100128611 /* Little_Finger.png in Resources */,
+				6CF629901B405E9100128611 /* Cersei.png in Resources */,
+				6CF6298E1B405E9100128611 /* Tyrion.png in Resources */,
+				6CF6298C1B405E9100128611 /* Arya.png in Resources */,
+				6CF629951B405E9100128611 /* Bran.png in Resources */,
+				6CF629931B405E9100128611 /* Tommen.png in Resources */,
+				6CF6298F1B405E9100128611 /* Jon_Snow.png in Resources */,
+				6CF629A31B40848400128611 /* CharacterCell.xib in Resources */,
+				6CF629911B405E9100128611 /* Daenerys.png in Resources */,
 				6CF629631B40499100128611 /* Main.storyboard in Resources */,
 				6CF629681B40499100128611 /* LaunchScreen.xib in Resources */,
+				6CF6298D1B405E9100128611 /* Sansa.png in Resources */,
 				6CF629651B40499100128611 /* Images.xcassets in Resources */,
+				6CF629921B405E9100128611 /* Melisandre.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -224,8 +340,12 @@
 			files = (
 				6CF6295A1B40499100128611 /* AppDelegate.m in Sources */,
 				6CF6295D1B40499100128611 /* CM_Tarea_1_Tables.xcdatamodeld in Sources */,
-				6CF629601B40499100128611 /* ViewController.m in Sources */,
+				6CF6299B1B40844E00128611 /* CharacterDetails.m in Sources */,
+				6CF629601B40499100128611 /* Home.m in Sources */,
+				6CF6299E1B40846200128611 /* CharacterAdd.m in Sources */,
 				6CF629571B40499100128611 /* main.m in Sources */,
+				6CF629AC1B40A7FA00128611 /* DataClass.m in Sources */,
+				6CF629A21B40848400128611 /* CharacterCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -350,6 +470,7 @@
 				INFOPLIST_FILE = "CM Tarea 1 Tables/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -360,6 +481,7 @@
 				INFOPLIST_FILE = "CM Tarea 1 Tables/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
